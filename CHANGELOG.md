@@ -7,6 +7,11 @@
 ### Changes in core dependencies of SwiftGen
 
 * [StencilSwiftKit 2.10.1](https://github.com/SwiftGen/StencilSwiftKit/blob/2.10.1/CHANGELOG.md)
+* Fonts: check font file signature before emitting a warning (plugin sandboxing)
+  [Richard Bergoin](https://github.com/kenji21)
+  [#952](https://github.com/SwiftGen/SwiftGen/issues/952)
+  [#1079](https://github.com/SwiftGen/SwiftGen/issues/1079)
+  [#1080](https://github.com/SwiftGen/SwiftGen/pull/1080)
 
 ### Bug Fixes
 
